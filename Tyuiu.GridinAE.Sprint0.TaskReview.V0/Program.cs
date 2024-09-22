@@ -28,5 +28,4 @@ Console.WriteLine("* РЕЗУЛЬТАТ:                                        
 Console.WriteLine("************************************************************************");
 
 Console.WriteLine(new DataService().Calc(x, y, z));
-
 Console.ReadKey();
